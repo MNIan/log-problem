@@ -1,2 +1,2 @@
-# log-problem
-had problems with the angle of the log
+# bouncyBall
+Bouncy Ball created using matter.js physics engine
